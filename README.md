@@ -1,5 +1,5 @@
 # About me
-I am a blockchain security researcher and actively participate in various types of competitions, involving languages such as **Solidity** and **Move**.
+I am a blockchain security researcher.
 # Security-portfolio
 ## MoveBit
 | Project         | Type      | Language  | Finding                     |
