@@ -1,5 +1,5 @@
 # About me
-I am a blockchain security researcher and actively participate in various types of competitions, involving languages such as **Solidity**, **Move**, and **Solana**.
+I am a blockchain security researcher and actively participate in various types of competitions, involving languages such as **Solidity** and **Move**.
 # Security-portfolio
 ## MoveBit
 | Project         | Type      | Language  | Finding                     |
@@ -15,8 +15,10 @@ I am a blockchain security researcher and actively participate in various types 
 | Navi Protocol   | DeFi      | Move     | 2 Medium                    |
 | Nemo Protocol   | DeFi      | Move     | 2 Medium, 1 Minor           |
 | Surge           | Launchpad | Move     | 1 Medium, 1 Minor           |
-
-
+| Proly           | DeFi      | Move     | 1 Major,1 Medium, 1 Minor   |
+| Yeap Finance    | DeFi      | Move     | 2 Major,2 Medium            |
+| Umi             | Wallet    | Move     | 1 Medium, 3 Minor           |
+| OPENSCI         | DeFi      | Solidity | 1 Major, 3 Minor            |
 
 ## Public Audit Competition
 [code4rena](https://code4rena.com/@Heyu)
