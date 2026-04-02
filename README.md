@@ -32,6 +32,7 @@ I am a blockchain security researcher.
 | DODO Cross-Chain DEX            | Solidity | 1 Medium          |
 | stNXM by EaseDeFi               | Solidity | 1 High, 1 Medium  |
 | Monolith Stablecoin Factory     | Solidity | 1 High            |
+| Current Finance                 | Solidity | 1 Medium          |
 
 [hackenproof](https://hackenproof.com/hackers/Yier)
 | Project             | Language  | Finding          |
